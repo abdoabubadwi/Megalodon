@@ -1,5 +1,5 @@
-facebook.com
-youtube.com
-tiktok.com
-pornhub.com
-yallakora.com
+0.0.0.0 facebook.com
+0.0.0.0 youtube.com
+0.0.0.0 tiktok.com
+0.0.0.0 pornhub.com
+0.0.0.0 yallakora.com
